@@ -20,3 +20,5 @@ A very simple mod for Farming Simulator 25 that displays "Hello HUD" message on 
 
 3. **Launch the Game:**  
    Start Farming Simulator 25. The mod should load automatically, and you should see "Hello HUD" centered on your screen.
+
+   <img src="https://raw.githubusercontent.com/bitfogav/image-repo/main/exampleHud.png" style="width: 50%;">
