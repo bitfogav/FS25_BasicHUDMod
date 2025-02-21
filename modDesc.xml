@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="96">
+	<author>Bitfogav</author>	
+    <version>1.0.0.0</version>    
+	<title>
+        <en>Basic HUD Mod</en>
+    </title>    
+    <description>
+<en><![CDATA[
+A very simple mod that displays a custom HUD message.
+]]></en>
+
+    </description>
+	<iconFilename>icon_BasicHUD.dds</iconFilename>
+    <multiplayer supported="true"/>	
+	<extraSourceFiles>	
+      <sourceFile filename="main.lua"/>
+      <sourceFile filename="BasicHUD.lua"/>
+	</extraSourceFiles>
+</modDesc>
